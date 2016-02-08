@@ -12,6 +12,8 @@ Sigfox’s Long Range Low Power End Node solution
 
 .. image:: _static/logo_silica_nxp_fox.jpg
 
+.. image:: _static/board_on.jpg
+
 .. index:: index
 
 **INTRODUCTION**
@@ -35,7 +37,7 @@ implement highly complex and secure protocols in an efficient environmental
 and very low consumption way.
 
 
-.. image:: _static/changeme.jpg
+.. image:: _static/sigfox_network.jpg
 
 Features:
 
@@ -57,7 +59,7 @@ Developement tools
 ******************
 
 Firmware developed using:
-NXP Kinetis Design Studio. For installation and configuration of the project, follow instruction inside :ref:`quick`
+NXP Kinetis Design Studio. For installation and configuration of the project, follow instruction inside :ref:`develop`
 
 Document references
 *******************
@@ -70,7 +72,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   qs
    develop
    hw
 
