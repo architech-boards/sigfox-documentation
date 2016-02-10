@@ -23,6 +23,11 @@ The Acclerometer sensor is read from I2C interface.
 
 The microcontroller uses the deep sleep mode **VLPS**, it is waken up from LPTimer every 30 seconds or pin interrupt connected to the **S2** button.
 
+The board
+*********
+
+.. image:: _static/board_info.jpg
+
 Commands used
 *************
 
