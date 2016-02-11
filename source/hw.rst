@@ -19,7 +19,7 @@ The TD1207 module provides a protocol connectivity using a simple UART interface
 
 The Light Sensor is read from the ADC converter pheriperal of the MKL26Z.
 
-The Acclerometer sensor is read from I2C interface.
+The Accelerometer sensor is read from I2C interface.
 
 The microcontroller uses the deep sleep mode **VLPS**, it is waken up from LPTimer every 30 seconds or pin interrupt connected to the **S2** button.
 

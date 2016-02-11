@@ -38,7 +38,7 @@ subsequently update the system to the version 3.1.0 clicking on **help->check fo
 .. image:: _static/kds_update1.jpg
 .. image:: _static/kds_update2.jpg
 
-then press **Accept** and **Finish**. Will be installed all the updates disponible, if required accept some request during the installing. In the end restart the IDE.
+then press **Accept** and **Finish**. Will be installed all the updates avaiable, if required accept some request during the installing. In the end restart the IDE.
 
 Import Project
 **************
@@ -47,7 +47,7 @@ Go to **File->Import** and select **archive file**.
 
 .. image:: _static/kds_archive.jpg
 
-Browise to the zip file containing the project and select your workspace where put the source code.
+Browse to the zip file containing the project and select your workspace where put the source code.
 
 .. image:: _static/kds_import_path.jpg
 
@@ -77,6 +77,6 @@ Clicking on **Debug** button the debug will start entering on the first line cod
 Processor Expert
 ****************
 
-KSDK 1.3.0 is a graphic tool used for semplify the pheripherals initialization of the MKL26Z microprocessor. We suggest you to install the 1.3.0 version if you want change the source code. This project is bare metal.
+KSDK 1.3.0 is a graphic tool used for simplify the peripherals initialization of the MKL26Z microprocessor. We suggest you to install the 1.3.0 version if you want to change the source code. This project is bare metal.
 
 
