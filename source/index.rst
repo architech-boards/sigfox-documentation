@@ -3,9 +3,10 @@
 Welcome to Sensor Node Sigfox documentation!
 ============================================
 
-:Version: 1.00A
+:Version: 1.00B
 :Copyright: (C)2016 Avnet Memec Silica company
-:Date: 05 Feb 2016
+:Date: 23 Mar 2016
+:Reference name: BAEVTSS003
 
 Sigfox’s Long Range Low Power End Node solution
 -----------------------------------------------
@@ -27,9 +28,9 @@ consumption. The **TD1207** device offers an outstanding RF sensitivity of –
 126 dBm while providing an exceptional output power of up to +14 dBm with
 unmatched TX efficiency. The **TD1207** device versatility provides the
 gateway function from a local Narrow Band ISM network to the long-distance
-Ultra Narrow Band SIGFOXTM network at no additional cost. The broad range
+Ultra Narrow Band SIGFOXTM network with no additional cost. The broad range
 of analog and digital interfaces available in the **TD1207** module allows any
-application to interconnect easily to the SIGFOXTM network. The LVTTL low-
+application to interconnect easily with the SIGFOXTM network. The LVTTL low-
 energy UART, along with the numerous GPIOs can control any kind of
 external sensors or activators. Featuring an AES encryption engine and a
 DMA controller, the powerful 32-bit ARM Cortex-M3 baseband processor can

@@ -21,7 +21,7 @@ The Light Sensor is read from the ADC converter pheriperal of the MKL26Z.
 
 The Accelerometer sensor is read from I2C interface.
 
-The microcontroller uses the deep sleep mode **VLPS**, it is waken up from LPTimer every 30 seconds or pin interrupt connected to the **S2** button.
+The microcontroller uses the deep sleep mode **VLPS**, it is waken up by LPTimer every 30 seconds or by pin interrupt connected to the **S2** button.
 
 The board
 *********
@@ -31,7 +31,7 @@ The board
 Commands used
 *************
 
-In order to send data in the Lora network the command is:
+The comand to send data in the Lora network is:
 
 - **AT$SS=18 AA BB CC**: used to send the frame *18AABBCC*
 
