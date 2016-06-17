@@ -8,6 +8,7 @@ Hardware Guide
 The board is provided with:
 
 - NXP MKL26Z microprocessor
+- NXP MK20DX128VFM5 microprocessor
 - TD1207 Module Sigfox
 - Light Sensor
 - Reset button
