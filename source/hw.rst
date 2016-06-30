@@ -32,7 +32,7 @@ The board
 Commands used
 *************
 
-The comand to send data in the Lora network is:
+The comand to send data in the Sigfox network is:
 
 - **AT$SS=18 AA BB CC**: used to send the frame *18AABBCC*
 
