@@ -3,9 +3,9 @@
 Welcome to Sensor Node Sigfox documentation!
 ============================================
 
-:Version: 1.10B
+:Version: 1.11B
 :Copyright: (C)2016 Avnet Memec Silica company
-:Date: 17 Jun 2016
+:Date: 1 Jul 2016
 :Reference name: BAEVTSS003
 
 Sigfox’s Long Range Low Power End Node solution
