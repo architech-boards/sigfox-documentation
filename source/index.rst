@@ -4,7 +4,7 @@ Welcome to Sensor Node Sigfox documentation!
 ============================================
 
 :Version: 1.11C
-:Copyright: (C)2016 Avnet Memec Silica company
+:Copyright: (C)2016 Avnet Silica company
 :Date: 6 Jul 2016
 :Reference name: BAEVTSS003
 
